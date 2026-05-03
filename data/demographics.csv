@@ -1,0 +1,26 @@
+district_code,city,neighborhood,median_household_income_tl,total_population,median_age,university_degree_pct,foot_traffic_index
+2701,Gaziantep,Şahinbey Merkez,48500,185000,32.1,28.4,74.5
+2702,Gaziantep,Şehitkamil Merkez,52000,210000,31.5,31.2,78.2
+2703,Gaziantep,Nizip,36000,98000,35.8,19.5,52.3
+2704,Gaziantep,İslahiye,31000,62000,38.2,16.8,41.0
+2705,Gaziantep,Nurdağı,29000,45000,40.1,14.2,34.7
+2706,Gaziantep,Oğuzeli,27500,38000,42.3,12.5,29.8
+2707,Gaziantep,Araban,25000,32000,44.6,11.0,24.5
+2708,Gaziantep,Karkamış,26500,28000,43.1,11.8,27.2
+2709,Gaziantep,Yavuzeli,24500,22000,45.0,10.5,21.3
+2710,Gaziantep,İncilipınar,61000,42000,29.4,38.5,88.1
+2711,Gaziantep,Güneykent,45000,78000,33.7,25.6,61.4
+2712,Gaziantep,Bağlarbaşı,39000,95000,34.2,22.1,55.8
+2713,Gaziantep,Üniversite Mahallesi,35000,55000,24.8,58.2,67.3
+2714,Gaziantep,Düztepe,37500,88000,35.9,21.4,53.2
+2715,Gaziantep,Organize Sanayi,42000,32000,36.5,23.8,48.6
+2716,Gaziantep,Gazikent,55000,48000,30.8,34.7,72.9
+2717,Gaziantep,Çamlıca,58000,52000,31.2,36.1,76.4
+2718,Gaziantep,Suburcu,33000,67000,37.8,18.9,44.2
+2719,Gaziantep,Fevzipaşa,44000,73000,33.5,26.3,59.7
+2720,Gaziantep,Kozluca,31500,41000,39.4,17.2,38.5
+2721,Gaziantep,Ataşehir Gaziantep,62000,38000,29.7,39.8,85.3
+2722,Gaziantep,Yapıkent,40000,62000,34.8,22.9,57.1
+2723,Gaziantep,Batıkent,53000,44000,32.4,33.5,70.6
+2724,Gaziantep,Karataş,36500,59000,36.2,20.7,49.8
+2725,Gaziantep,Mücahitler,38000,84000,35.3,21.8,52.4

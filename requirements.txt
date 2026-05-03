@@ -1,0 +1,14 @@
+# Core ADK framework and Gemini model support
+google-adk>=1.0.0
+
+# Google Cloud client libraries
+google-cloud-bigquery>=3.0.0
+google-auth>=2.0.0
+google-auth-httplib2>=0.2.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Data manipulation (used in optional Streamlit deployment layer)
+pandas>=2.0.0
+numpy>=1.24.0

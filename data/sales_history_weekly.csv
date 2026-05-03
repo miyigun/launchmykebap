@@ -1,0 +1,52 @@
+week_start_date,restaurant_location,menu_item,covers_served,total_revenue_tl
+2024-01-01,İncilipınar,Beyti Kebap,320,112000
+2024-01-01,İncilipınar,Fıstıklı Kebap,180,75600
+2024-01-01,İncilipınar,Lahmacun,510,43350
+2024-01-01,İncilipınar,Ali Nazik,240,72000
+2024-01-01,Şehitkamil Merkez,Beyti Kebap,410,127100
+2024-01-01,Şehitkamil Merkez,Lahmacun,680,44200
+2024-01-01,Şehitkamil Merkez,Ali Nazik,295,82600
+2024-01-01,Şahinbey Merkez,Beyti Kebap,380,133000
+2024-01-01,Şahinbey Merkez,Fıstıklı Kebap,220,92400
+2024-01-01,Şahinbey Merkez,Lahmacun,590,50150
+2024-01-08,İncilipınar,Beyti Kebap,305,106750
+2024-01-08,İncilipınar,Fıstıklı Kebap,195,81900
+2024-01-08,İncilipınar,Lahmacun,530,45050
+2024-01-08,İncilipınar,Ali Nazik,260,78000
+2024-01-08,Şehitkamil Merkez,Beyti Kebap,395,122450
+2024-01-08,Şehitkamil Merkez,Lahmacun,650,42250
+2024-01-08,Şehitkamil Merkez,Ali Nazik,280,78400
+2024-01-08,Şahinbey Merkez,Beyti Kebap,365,127750
+2024-01-08,Şahinbey Merkez,Fıstıklı Kebap,205,86100
+2024-01-08,Şahinbey Merkez,Lahmacun,560,47600
+2024-01-15,İncilipınar,Beyti Kebap,340,119000
+2024-01-15,İncilipınar,Fıstıklı Kebap,210,88200
+2024-01-15,İncilipınar,Lahmacun,570,48450
+2024-01-15,İncilipınar,Ali Nazik,275,82500
+2024-01-15,Gazikent,Beyti Kebap,290,118900
+2024-01-15,Gazikent,Fıstıklı Kebap,165,74250
+2024-01-15,Gazikent,Katmer,420,58800
+2024-01-15,Çamlıca,Beyti Kebap,315,107100
+2024-01-15,Çamlıca,Ali Nazik,270,83700
+2024-01-15,Çamlıca,Lahmacun,480,36000
+2024-01-22,Ataşehir Gaziantep,Beyti Kebap,350,115500
+2024-01-22,Ataşehir Gaziantep,Fıstıklı Kebap,200,74000
+2024-01-22,Ataşehir Gaziantep,Katmer,510,66300
+2024-01-22,İncilipınar,Beyti Kebap,360,126000
+2024-01-22,İncilipınar,Fıstıklı Kebap,225,94500
+2024-01-22,İncilipınar,Lahmacun,590,50150
+2024-01-29,Şehitkamil Merkez,Beyti Kebap,425,131750
+2024-01-29,Şehitkamil Merkez,Lahmacun,710,46150
+2024-01-29,Şehitkamil Merkez,Ali Nazik,310,86800
+2024-01-29,Şahinbey Merkez,Beyti Kebap,395,138250
+2024-01-29,Şahinbey Merkez,Fıstıklı Kebap,230,96600
+2024-01-29,Şahinbey Merkez,Lahmacun,620,52700
+2024-02-05,İncilipınar,Beyti Kebap,375,131250
+2024-02-05,İncilipınar,Fıstıklı Kebap,240,100800
+2024-02-05,İncilipınar,Lahmacun,610,51850
+2024-02-05,Gazikent,Beyti Kebap,310,127100
+2024-02-05,Gazikent,Katmer,460,64400
+2024-02-05,Çamlıca,Beyti Kebap,335,113900
+2024-02-12,Ataşehir Gaziantep,Beyti Kebap,370,122100
+2024-02-12,Ataşehir Gaziantep,Fıstıklı Kebap,215,79550
+2024-02-12,Ataşehir Gaziantep,Katmer,535,69550

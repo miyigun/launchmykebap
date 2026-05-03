@@ -1,0 +1,36 @@
+restaurant_name,menu_item,price_tl,district,cuisine_type,is_premium
+Imam Çağdaş,Beyti Kebap,380,Şahinbey Merkez,Gaziantep Mutfağı,True
+Imam Çağdaş,Fıstıklı Kebap,420,Şahinbey Merkez,Gaziantep Mutfağı,True
+Imam Çağdaş,Lahmacun,85,Şahinbey Merkez,Gaziantep Mutfağı,True
+Halil Usta,Beyti Kebap,310,Şehitkamil Merkez,Gaziantep Mutfağı,False
+Halil Usta,Ali Nazik,280,Şehitkamil Merkez,Gaziantep Mutfağı,False
+Halil Usta,Lahmacun,65,Şehitkamil Merkez,Gaziantep Mutfağı,False
+Zeugma Kebap Evi,Beyti Kebap,350,İncilipınar,Gaziantep Mutfağı,True
+Zeugma Kebap Evi,Katmer,120,İncilipınar,Gaziantep Mutfağı,True
+Zeugma Kebap Evi,Ali Nazik,300,İncilipınar,Gaziantep Mutfağı,True
+Burç Ocakbaşı,Beyti Kebap,290,Güneykent,Gaziantep Mutfağı,False
+Burç Ocakbaşı,Fıstıklı Kebap,320,Güneykent,Gaziantep Mutfağı,False
+Burç Ocakbaşı,Lahmacun,60,Güneykent,Gaziantep Mutfağı,False
+Antep Sofrası,Beyti Kebap,270,Bağlarbaşı,Gaziantep Mutfağı,False
+Antep Sofrası,Ali Nazik,240,Bağlarbaşı,Gaziantep Mutfağı,False
+Antep Sofrası,Lahmacun,55,Bağlarbaşı,Gaziantep Mutfağı,False
+Mütevelli Konağı,Beyti Kebap,410,Gazikent,Gaziantep Mutfağı,True
+Mütevelli Konağı,Fıstıklı Kebap,450,Gazikent,Gaziantep Mutfağı,True
+Mütevelli Konağı,Katmer,140,Gazikent,Gaziantep Mutfağı,True
+Sıra Gecesi,Beyti Kebap,340,Çamlıca,Gaziantep Mutfağı,True
+Sıra Gecesi,Ali Nazik,310,Çamlıca,Gaziantep Mutfağı,True
+Sıra Gecesi,Lahmacun,75,Çamlıca,Gaziantep Mutfağı,True
+Lezzet Durağı,Beyti Kebap,260,Düztepe,Gaziantep Mutfağı,False
+Lezzet Durağı,Fıstıklı Kebap,290,Düztepe,Gaziantep Mutfağı,False
+Lezzet Durağı,Lahmacun,50,Düztepe,Gaziantep Mutfağı,False
+Fıstık Ocakbaşı,Beyti Kebap,330,Ataşehir Gaziantep,Gaziantep Mutfağı,True
+Fıstık Ocakbaşı,Fıstıklı Kebap,370,Ataşehir Gaziantep,Gaziantep Mutfağı,True
+Fıstık Ocakbaşı,Katmer,130,Ataşehir Gaziantep,Gaziantep Mutfağı,True
+Kasr-ı Zade,Beyti Kebap,395,İncilipınar,Gaziantep Mutfağı,True
+Kasr-ı Zade,Ali Nazik,360,İncilipınar,Gaziantep Mutfağı,True
+Kasr-ı Zade,Katmer,145,İncilipınar,Gaziantep Mutfağı,True
+Yöre Sofrası,Beyti Kebap,255,Mücahitler,Gaziantep Mutfağı,False
+Yöre Sofrası,Lahmacun,52,Mücahitler,Gaziantep Mutfağı,False
+Yöre Sofrası,Ali Nazik,230,Mücahitler,Gaziantep Mutfağı,False
+Nizip Et Evi,Beyti Kebap,240,Nizip,Gaziantep Mutfağı,False
+Nizip Et Evi,Fıstıklı Kebap,270,Nizip,Gaziantep Mutfağı,False
