@@ -38,6 +38,7 @@ gcloud services enable \
     bigquerystorage.googleapis.com \
     storage.googleapis.com \
     apikeys.googleapis.com \
+    aiplatform.googleapis.com \
     --project="$PROJECT_ID"
 echo "      APIs enabled. Waiting 10 seconds for enablement to propagate..."
 sleep 10
