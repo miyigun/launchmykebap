@@ -37,6 +37,7 @@ gcloud services enable \
     bigquerymigration.googleapis.com \
     bigquerystorage.googleapis.com \
     storage.googleapis.com \
+    apikeys.googleapis.com \
     --project="$PROJECT_ID"
 echo "      APIs enabled."
 
