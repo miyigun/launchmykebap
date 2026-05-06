@@ -55,8 +55,11 @@ else
 fi
 
 # ── Step 2: Upload CSV data files ────────────────────────────────────────────
-echo "[2/6] Uploading CSV data files to $BUCKET_NAME..."
-gcloud storage cp ../data/*.csv "$BUCKET_NAME"
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+DATA_DIR="$SCRIPT_DIR/../data"
+
+echo "[2/6] Uploading CSV data files from $DATA_DIR to $BUCKET_NAME..."
+gcloud storage cp "$DATA_DIR"/*.csv "$BUCKET_NAME"
 
 # ── Step 3: Create BigQuery dataset ─────────────────────────────────────────
 echo "[3/6] Creating BigQuery dataset '$DATASET_NAME'..."
