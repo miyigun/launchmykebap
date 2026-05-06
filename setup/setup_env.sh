@@ -39,7 +39,8 @@ gcloud services enable \
     storage.googleapis.com \
     apikeys.googleapis.com \
     --project="$PROJECT_ID"
-echo "      APIs enabled."
+echo "      APIs enabled. Waiting 10 seconds for enablement to propagate..."
+sleep 10
 
 # ── Step 2: Create a restricted Maps API key ─────────────────────────────────
 echo "[2/3] Creating restricted Maps Platform API key..."
@@ -50,7 +51,7 @@ MAPS_API_KEY=$(gcloud services api-keys create \
     --api-target=service=directions-backend.googleapis.com \
     --api-target=service=geocoding-backend.googleapis.com \
     --format="value(keyString)" \
-    --project="$PROJECT_ID" 2>/dev/null || \
+    --project="$PROJECT_ID" || \
     # If key already exists, retrieve it by display name
     gcloud services api-keys list \
         --filter="displayName=$KEY_DISPLAY_NAME" \
@@ -58,8 +59,12 @@ MAPS_API_KEY=$(gcloud services api-keys create \
         --project="$PROJECT_ID" | head -1)
 
 if [ -z "$MAPS_API_KEY" ]; then
-    echo "ERROR: Could not create or retrieve Maps API key. Please create one manually"
-    echo "       in the Google Cloud Console and set MAPS_API_KEY in the .env file."
+    echo "ERROR: Could not create or retrieve Maps API key programmatically."
+    read -p "Please enter your Google Maps Platform API Key manually: " MAPS_API_KEY
+fi
+
+if [ -z "$MAPS_API_KEY" ]; then
+    echo "ERROR: Maps API Key cannot be empty."
     exit 1
 fi
 echo "      Maps API key ready."
