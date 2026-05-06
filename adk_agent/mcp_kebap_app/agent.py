@@ -39,9 +39,6 @@ from google.adk.agents import LlmAgent
 # Load environment variables from the .env file created by setup_env.sh
 dotenv.load_dotenv()
 
-# Hardcoded Gemini API Key (Bypasses Vertex AI and .env)
-os.environ["GEMINI_API_KEY"] = "AIzaSyDJzVITF9uRpA9YF-6ZA2mZdQzpF0oHV8E"
-
 # Google Cloud project ID used to run BigQuery jobs (must match the dataset location)
 PROJECT_ID = os.getenv("GOOGLE_CLOUD_PROJECT", "project_not_set")
 
