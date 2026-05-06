@@ -81,7 +81,7 @@ cat > "$ENV_FILE" <<EOF
 
 # Enable Vertex AI (bypasses standard Gemini API Key requirement)
 GOOGLE_GENAI_USE_VERTEXAI=1
-GOOGLE_CLOUD_LOCATION=us-central1
+GOOGLE_CLOUD_LOCATION=global
 
 # Google Cloud project ID (used for BigQuery job billing)
 GOOGLE_CLOUD_PROJECT=$PROJECT_ID
